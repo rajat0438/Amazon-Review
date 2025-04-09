@@ -1,2 +1,18 @@
-# Amazon-Review
- Amazon Review Analysis 📊 This project analyzes Amazon product reviews using Natural Language Processing (NLP) and sentiment analysis to determine whether reviews are positive, negative, or neutral. The goal is to gain insights into customer feedback and visualize trends in product sentiment.
+# Amazon Review Analysis
+This project analyzes Amazon reviews using sentiment analysis and NLP.
+
+## Features
+- Sentiment analysis (positive, negative, neutral)
+- Data visualization
+- Word cloud representation
+
+## Technologies Used
+- Python
+- Pandas
+- NLTK / TextBlob
+- Matplotlib / Seaborn
+
+## Installation
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/your-username/amazon-review-analysis.git
